@@ -1,1 +1,1 @@
-# Logistic-Regression-
+Practicing using logistic regression
